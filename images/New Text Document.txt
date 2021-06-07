@@ -1,0 +1,6 @@
+In game, press p to pause game and r to resume game.
+Press F1 to save the current game and return to main menu. The save game can be resumed from the main menu by clicking the "Continue" button.
+Drag the basket or press left and right arrows to move the basket.
+White egg adds 1 point, Blue egg adds 5 points and golden egg adds 10 points. Catching shit deducts 10 points.
+Three types of perks can also be dropped - time increment, bigger basket and 2X score-factor.
+Completing a game or starting a new game erases the previously saved game.
